@@ -3,7 +3,7 @@ const notes = [
     key: 1,
     title: "Delegation",
     content:
-      "Q. How many programmers does it take to change a light bulb? A. None – It’s a hardware problem",
+      "How many programmers does it take to change a light bulb? None – It’s a hardware problem",
   },
   {
     key: 2,
@@ -15,7 +15,7 @@ const notes = [
     key: 3,
     title: "Arrays",
     content:
-      "Q. Why did the programmer quit his job? A. Because he didn't get arrays.",
+      "Why did the programmer quit his job? Because he didn't get arrays.",
   },
   {
     key: 4,
@@ -26,8 +26,9 @@ const notes = [
   {
     key: 5,
     title: "Conditionals",
-    content: "If this than that.",
+    content: "If this, then that.",
   },
 ];
 
 export default notes;
+
